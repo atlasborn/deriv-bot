@@ -1,0 +1,9 @@
+numpy==2.5.1
+pandas==3.0.3
+python-dateutil==2.9.0.post0
+python-deriv-api==0.1.6
+python-dotenv==1.2.2
+reactivex==4.0.4
+six==1.17.0
+typing_extensions==4.16.0
+websockets==10.3
